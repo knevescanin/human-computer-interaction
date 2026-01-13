@@ -1,6 +1,6 @@
-# 🛍️ HCI PriceHare
+# 🛍️ HCI Pricehare
 
-HCI PriceHare is a modern Next.js application that enables users to search and compare product prices across various stores in Croatia. The platform features user authentication, favorites management, search functionality, and a responsive design for optimal user experience across all devices.
+HCI Pricehare is a modern Next.js application that enables users to search and compare product prices across various stores in Croatia. The platform features user authentication, favorites management, search functionality, and a responsive design for optimal user experience across all devices.
 
  
 
